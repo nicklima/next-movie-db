@@ -6,7 +6,7 @@ const MoviesList = dynamic(() => import("components/MoviesList"))
 const MoviesTrendDay = dynamic(() => import("components/MoviesTrendDay"))
 
 const HomePage = ({ nowPlaying, upcoming, popular, trending }: any) => (
-  <Layout>
+  <Layout pageTitle="Home Page">
     <MoviesTrendDay movies={trending} />
     <MoviesList title="Now Playing" movies={nowPlaying} />
     <MoviesList title="Upcoming Movies" movies={upcoming} />

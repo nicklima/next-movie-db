@@ -4,7 +4,7 @@ import { fetchAPI } from "lib"
 const TrendingPage = ({ movies, pages }: any) => {
   const hasPages = pages.current < pages.total
   return (
-    <Layout>
+    <Layout pageTitle="Trending Movies">
       <MoviesTrend movies={movies} />
       {hasPages && <Pagination pagination={pages} />}
     </Layout>
