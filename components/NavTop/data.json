@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Home",
+    "link": "/",
+    "target": "_self"
+  },
+  {
+    "title": "Trendings",
+    "link": "trendings",
+    "target": "_self"
+  }
+]

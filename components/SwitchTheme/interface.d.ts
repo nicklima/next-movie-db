@@ -1,0 +1,3 @@
+interface ISwitchProps {
+  active?: boolean
+}
