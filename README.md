@@ -41,7 +41,7 @@ This project is a **frontend** application made with `next.js` fetching the [Mov
 Clone the repository:
 
 ```
-git clone git@github.com:nicklima/react-next-movie-db-api.git
+git clone git@github.com:nicklima/next-movie-db.git
 ```
 
 ### Install Dependencies
