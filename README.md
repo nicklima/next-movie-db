@@ -22,7 +22,7 @@ This project is a **frontend** application made with `next.js` fetching the [Mov
 
 ## Credits
 
-- The icons are from [Font Awesome]()
+- The icons are from [Font Awesome](fontawesome.com)
 - Data and images about movies are from [The Movie DB](https://www.themoviedb.org) free API
 
 ## Technologies
