@@ -27,7 +27,14 @@ export const ButtonList = styled.ul`
 `
 
 export const Button = styled.button<IButtonProps>`
-  background-color: ${({ active }) => (active ? "red" : "transparent")};
+  color: ${({ active, theme }) =>
+    active ? theme.colors.primary : theme.colors.secondary};
+  background-color: ${({ active, theme }) =>
+    active ? theme.colors.primary : theme.colors.secondary};
+  border-radius: 25px;
+  padding: 10px 25px;
+  width: 120px;
+
   border-radius: 25px;
   border: 3px solid;
   color: #fff;

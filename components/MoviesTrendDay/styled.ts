@@ -9,6 +9,8 @@ export const ButtonWrapper = styled.div`
 `
 
 export const Button = styled.button`
+  color: ${({ theme }) => theme.colors.primary};
+  background-color: ${({ theme }) => theme.colors.secondary};
   border-radius: 25px;
   padding: 10px 25px;
   width: 120px;

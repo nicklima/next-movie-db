@@ -3,6 +3,7 @@ declare module "global-interfaces" {
 
   export interface ILayout {
     children: ReactNode
+    pageTitle: string
   }
 
   export interface IMovies {
