@@ -18,7 +18,7 @@ This project is a **frontend** application made with `next.js` fetching the [Mov
 
 ## Preview
 
-[Click here]() to view the project online.
+[Click here](https://next-movie-db.vercel.app) to view the project online.
 
 ## Credits
 
@@ -89,6 +89,13 @@ Your app is ready to be deployed!
 ## About Next
 
 Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://nextjs.org/learn</a> to get started with Next.js or visit [https://nextjs.org/docs](https://nextjs.org/docs) to view the full documentation.
+
+## TODO List
+
+- [ ] Store selected theme on cookie to preserve user choice
+- [ ] Improve theme colors
+- [ ] Create modal to get more info about the movie
+- [ ] Add JEST to project
 
 ## License
 
