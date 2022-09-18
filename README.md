@@ -49,7 +49,7 @@ git clone git@github.com:nicklima/next-movie-db.git
 Navigate to the project directory
 
 ```
-cd react-next-movie-db-api
+cd react-next-movie-db
 ```
 
 and install the dependencies:
