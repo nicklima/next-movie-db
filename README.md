@@ -96,6 +96,7 @@ Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://next
 - [ ] Improve theme colors
 - [ ] Create modal to get more info about the movie
 - [ ] Add JEST to project
+- [ ] Add translations
 
 ## License
 
